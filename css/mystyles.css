@@ -1,0 +1,56 @@
+.newTitle{
+  background-color: red;
+}
+.sidePane{
+  order: 0;
+  background-color: grey;
+  border-radius: 12px;
+  margin:5px;
+  padding: 5px
+}
+.lesson{
+  border-radius: 10px;
+  padding: 5px;
+  margin: 10px;
+  background-color: lightblue;
+
+}
+h1{
+  color:white
+}
+.subject{
+  order: 1;
+  flex-direction: column;
+  background-color: darkblue;
+  border-radius: 5px;
+}
+.concept-title{
+  font-weight: bold;
+  color: black;
+  font-size: 20px;
+}
+.concept-description{
+  font-style:italic;
+  font-size: 20px;
+  margin:5px;
+}
+.concept{
+  margin: 6px;
+  padding: 10px;
+}
+.snapshot{
+  padding:15px;
+}
+.snapshot-desription{
+  margin: 25px;
+
+}
+.image-div{
+  display: flex;
+}
+.my-app{
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+  overflow-y:hidden;
+}
