@@ -1,4 +1,4 @@
-# stage2-IPND
-IPND stage 2 Project submission
+# An HTML with CSS styles
 
-A simple webpage
+This is the second version in basic HTML.
+Here we also implemented basic styles to see how box model works
